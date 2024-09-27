@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá!😀
+
+Eu sou a Juliana, tenho 19 anos e atualmente estou cursando bacharelado em Sistemas de Informação na FIAP.
+
+💻Habilidades: HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, Java, Spring e SQL.
+
+E-mail: ju_snascimento@outlook.com
 
 <!--
 **juliana-sn/juliana-sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
